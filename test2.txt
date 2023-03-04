@@ -1,0 +1,2 @@
+Hey, this is test text in test1.txt.
+Copy this to test2.txt and leave test1.txt blank!
